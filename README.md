@@ -4,6 +4,9 @@
 
 This is a small experiment to empirically decide which letters are the "most profane".
 
+It attempts to answer the question: **If I wrote a random string generator, which numbers/letters should
+I omit in order to reduce the chance of generating something offensive?**
+
 Read the background for more information, or jump to [Results](#Results) if you're
 only interested in the findings.
 
