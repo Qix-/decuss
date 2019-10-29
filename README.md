@@ -129,5 +129,9 @@ The curve doesn't surprise me, though the steepness of it does. I didn't expect 
 
 Further, it's interesting to see when some letters jitter - for example, going from 6 remaining words to 7 removed `3` from the results when `0` began to appear, which indicates that `0` is _more profane_ than `3` given the right circumstances.
 
+Interestingly enough, **`r` seems to be the most offensive letter across almost all of the tests I carried out**. Between bugged runs, working runs without any weight adjustments, and the final results you see above, `r` was pretty consistently on the scoreboard, if not one of the first. If you **have** to choose just one letter, `r` would be your winner.
+
+I think we all knew that last thing, though...
+
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Decuss</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/qix-/decuss" property="cc:attributionName" rel="cc:attributionURL">Joshua Junon</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
