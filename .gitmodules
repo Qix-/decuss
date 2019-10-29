@@ -1,0 +1,3 @@
+[submodule "cuss"]
+	path = cuss
+	url = https://github.com/words/cuss
